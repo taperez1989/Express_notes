@@ -10,7 +10,7 @@ challenge was to set up a connection between the front end and the database. whi
 
 deployed site link: 
 
-repo link: 
+repo link: https://github.com/taperez1989/Express_notes.git
 
 ##MIT License
 
